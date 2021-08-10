@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @johnmurowaniecki
+- 👀 I'm interested in implementing intelligent solutions that add value, reducing costs with performance, scalability and maintainability of the solutions in a simple and easy-to-use way.
+- 🌱 I'm currently learning how to be a better person. I really like philosophy, I practice martial arts, shooting (as a sport) and eventually survivalism (as a sport too :smile:).
+- 💞️ I'm looking to collaborate as much as possible and as far as I can.
+- 📫 You can find me on my [private profile](https://github.com/jmurowaniecki), or via Teams/e-mail - [if it's not exactly urgent, see a time that fits in your schedule and make an appointment for us to chat](https://calendly.com/compilou/30min).
